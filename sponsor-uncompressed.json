@@ -10,7 +10,7 @@
         "logolink": "https://gandi.net", 
         "intro": {
           "en": "GANDI.net was one of the first domain name registrars approved by ICANN for .COM, .NET, .ORG, .BIZ, .INFO, .NAME, .BE, .FR, .EU domains in France. We now offer over 600 top-level domains, and we continue to add more on a regular basis. At Gandi, we consider ourselves an ethical domain name registrar in an industry that has some 'grey' practices. We value our customers' rights and privacy above all else, and defend these wherever and whenever possible.", 
-          "zh": "Gandi.net \u662f\u57df\u540d\u8a3b\u518a\u5546\u3001SSL \u9a57\u8b49\u6a5f\u69cb\u8207\u96f2\u7aef\u4e3b\u6a5f\u63d0\u4f9b\u8005\uff0c\u6210\u7acb\u65bc 1996 \u5e74\uff0c\u53ef\u63d0\u4f9b\u8d85\u904e 700 \u7a2e\u57df\u540d\u3002\u5728\u53f0\u7063\u6210\u7acb\u7ba1\u5730\u6709\u9650\u516c\u53f8\u5df2\u8d85\u904e\u4e09\u5e74\uff0c\u63d0\u4f9b\u53f0\u7063\u767c\u7968\u8207\u4e2d\u6587\u5ba2\u670d\u3002\u652f\u6301 Open Source \u8edf\u9ad4\u8207\u793e\u7fa4\u3002"
+          "zh": "Gandi.net 是域名註冊商、SSL 驗證機構與雲端主機提供者，成立於 1996 年，可提供超過 700 種域名。在台灣成立管地有限公司已超過三年，提供台灣發票與中文客服。支持 Open Source 軟體與社群。"
         }, 
         "place": "1", 
         "logourl": "gandi.png"
@@ -18,7 +18,7 @@
     ], 
     "name": {
       "en": "Platinum Level", 
-      "zh": "\u767d\u91d1\u7d1a"
+      "zh": "白金級"
     }
   }, 
   {
@@ -26,13 +26,13 @@
       {
         "name": {
           "en": "E.SUN Commercial Bank", 
-          "zh": "\u7389\u5c71\u5546\u696d\u9280\u884c\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+          "zh": "玉山商業銀行股份有限公司"
         }, 
         "level": "2", 
         "logolink": "https://www.esunbank.com.tw/bank/personal", 
         "intro": {
           "en": "To Be Continued..", 
-          "zh": "\u5f8c\u7e8c\u63d0\u4f9b"
+          "zh": "後續提供"
         }, 
         "place": "1", 
         "logourl": "e.sun.png"
@@ -40,7 +40,7 @@
     ], 
     "name": {
       "en": "Gold Level", 
-      "zh": "\u91d1\u7d1a"
+      "zh": "金級"
     }
   }, 
   {
@@ -48,13 +48,13 @@
       {
         "name": {
           "en": "Appier", 
-          "zh": "\u6c9b\u661f\u4e92\u52d5\u79d1\u6280"
+          "zh": "沛星互動科技"
         }, 
         "level": "3", 
         "logolink": "http://www.appier.com/en/careers.html", 
         "intro": {
           "en": "Appier is a technology company which aims to provide artificial intelligence platforms to help enterprises solve their most challenging business problems. Appier was established in 2012 by a passionate team of computer scientists and engineers with expertise in AI, data analysis, distributed systems, and marketing. Appier serves over 1,000 global brands and agencies from offices in 14 markets across Asia, including Taipei, Singapore, Kuala Lumpur, Tokyo, Osaka, Sydney, Ho Chi Minh City, Manila, Hong Kong, Mumbai, New Delhi, Jakarta, Seoul, and Bangkok.", 
-          "zh": "Appier\u662f\u4e00\u5bb6\u5c08\u6ce8\u65bc\u4eba\u5de5\u667a\u6167\u7684\u79d1\u6280\u516c\u53f8\uff0c\u85c9\u7531\u958b\u767c\u5404\u7a2e\u4eba\u5de5\u667a\u6167\u61c9\u7528\u5e73\u53f0\uff0c\u5354\u52a9\u4f01\u696d\u89e3\u6c7a\u6700\u68d8\u624b\u7684\u5546\u696d\u6311\u6230\u3002\u6210\u7acb\u65bc2012\u5e74\u7684Appier\u662f\u7531\u4e00\u7fa4\u5145\u6eff\u71b1\u60c5\u7684\u96fb\u8166\u79d1\u5b78\u5bb6\u8207\u8cc7\u8a0a\u5de5\u7a0b\u5e2b\u6240\u7d44\u6210\uff0c\u6280\u8853\u5718\u968a\u5c08\u9577\u6db5\u84cb\u4eba\u5de5\u667a\u6167\u3001\u8cc7\u6599\u5206\u6790\u8207\u5206\u6563\u5f0f\u7cfb\u7d71\u7b49\u9818\u57df\u3002Appier\u7684\u7e3d\u90e8\u8a2d\u65bc\u53f0\u5317\uff0c\u5728\u65b0\u52a0\u5761\u3001\u6771\u4eac\u3001\u5927\u962a\u3001\u5409\u9686\u5761\u3001\u80e1\u5fd7\u660e\u5e02\u3001\u99ac\u5c3c\u62c9\u3001\u9999\u6e2f\u3001\u5b5f\u8cb7\u3001\u65b0\u5fb7\u91cc\u3001\u96c5\u52a0\u9054\u3001\u9996\u723e\u3001\u96ea\u68a8\u8207\u66fc\u8c37\u7b49\u4e9e\u6d3214\u500b\u5e02\u5834\u8a2d\u6709\u64da\u9ede\uff0c\u70ba\u8d85\u904e1,000\u5bb6\u77e5\u540d\u54c1\u724c\u8207\u4ee3\u7406\u5546\u63d0\u4f9b\u512a\u8cea\u670d\u52d9\u3002"
+          "zh": "Appier是一家專注於人工智慧的科技公司，藉由開發各種人工智慧應用平台，協助企業解決最棘手的商業挑戰。成立於2012年的Appier是由一群充滿熱情的電腦科學家與資訊工程師所組成，技術團隊專長涵蓋人工智慧、資料分析與分散式系統等領域。Appier的總部設於台北，在新加坡、東京、大阪、吉隆坡、胡志明市、馬尼拉、香港、孟買、新德里、雅加達、首爾、雪梨與曼谷等亞洲14個市場設有據點，為超過1,000家知名品牌與代理商提供優質服務。"
         }, 
         "place": "1", 
         "logourl": "appier.png"
@@ -62,13 +62,13 @@
       {
         "name": {
           "en": "Trend Micro", 
-          "zh": "\u8da8\u52e2\u79d1\u6280"
+          "zh": "趨勢科技"
         }, 
         "level": "3", 
         "logolink": "http://www.trendmicro.tw/tw/index.html", 
         "intro": {
-          "en": "For nearly 30 years, Trend Micro\u2019s unwavering vision has been to make the world safe for exchanging digital information. Security is our entire focus, and it shows. This single-minded passion has inspired our innovations that keep up with the bad guys despite a changing IT landscape, riskier user behavior, and constantly evolving threats.\r\nThe depth of our experience remains unmatched. From the endpoint to the network to the cloud, we\u2019ve got you covered with a connected threat defense recognized by analysts, customers, and industry gurus of all kinds.", 
-          "zh": "\u8da8\u52e2\u79d1\u6280\u662f\u5168\u7403\u96f2\u7aef\u8cc7\u5b89\u9632\u8b77\u5c08\u5bb6\u53ca\u9818\u822a\u8005\uff0c\u70ba\u4e9e\u6d32\u8207\u53f0\u7063\u6700\u5927\u7684\u7d14\u8edf\u9ad4\u516c\u53f8\uff0c\u662f\u7b2c\u4e00\u5bb6\u7387\u5148\u63a1\u7528\u300c\u6a5f\u5668\u5b78\u7fd2\u300d\u6280\u8853\u53ca\u6642\u5075\u6e2c\u548c\u6514\u622a\u653b\u64ca\u75c5\u6bd2\u7684\u5168\u7403\u8cc7\u5b89\u54c1\u724c\u3002\u53f0\u7063\u70ba\u5168\u7403\u7814\u767c\u57fa\u5730\uff0c\u57f9\u80b2\u8d85\u904e1,000\u4f4d\u4ee5\u4e0a\u7684\u5de5\u7a0b\u5e2b\uff0c\u8ca0\u8cac\u7814\u767c\u5168\u7403\u8d85\u904e3\u5343\u842c\u540d\u4f01\u696d\u3001\u5bb6\u5ead\u8207\u500b\u4eba\u7528\u6236\u4f7f\u7528\u7684\u6700\u65b0\u53ca\u6700\u5b8c\u6574\u7684\u8cc7\u8a0a\u5b89\u5168\u6838\u5fc3\u6280\u8853\u53ca\u7522\u54c1\u3002\u8da8\u52e2\u79d1\u6280\u7528\u771f\u5be6\u6578\u64da\u57f9\u80b2\u8edf\u9ad4\u4eba\u624d\uff0c\u52a0\u901f\u7522\u696dAI\u5316\uff0c\u81f4\u529b\u65bc\u5be6\u73fe\u66f4\u5b89\u5168\u7684\u6578\u4f4d\u53ca\u7269\u806f\u7db2\u4e16\u754c\u3002"
+          "en": "For nearly 30 years, Trend Micro’s unwavering vision has been to make the world safe for exchanging digital information. Security is our entire focus, and it shows. This single-minded passion has inspired our innovations that keep up with the bad guys despite a changing IT landscape, riskier user behavior, and constantly evolving threats.\r\nThe depth of our experience remains unmatched. From the endpoint to the network to the cloud, we’ve got you covered with a connected threat defense recognized by analysts, customers, and industry gurus of all kinds.", 
+          "zh": "趨勢科技是全球雲端資安防護專家及領航者，為亞洲與台灣最大的純軟體公司，是第一家率先採用「機器學習」技術及時偵測和攔截攻擊病毒的全球資安品牌。台灣為全球研發基地，培育超過1,000位以上的工程師，負責研發全球超過3千萬名企業、家庭與個人用戶使用的最新及最完整的資訊安全核心技術及產品。趨勢科技用真實數據培育軟體人才，加速產業AI化，致力於實現更安全的數位及物聯網世界。"
         }, 
         "place": "2", 
         "logourl": "trendmicro.png"
@@ -82,7 +82,7 @@
         "logolink": "https://kloudless.com", 
         "intro": {
           "en": "Kloudless offers APIs and developer tools that help businesses easily build integrations to software applications and data sources", 
-          "zh": "Kloudless\u7684\u591a\u7a2e\u670d\u52d9APIs\u548c\u958b\u767c\u8005\u5de5\u5177\uff0c\u53ef\u5354\u52a9\u4f01\u696d\u6216\u958b\u767c\u8005\u7c21\u4fbf\u5730\u6574\u5408\u591a\u7a2e\u670d\u52d9\u548c\u8cc7\u6599\u4f86\u6e90"
+          "zh": "Kloudless的多種服務APIs和開發者工具，可協助企業或開發者簡便地整合多種服務和資料來源"
         }, 
         "place": "3", 
         "logourl": "kloudless.png"
@@ -90,7 +90,43 @@
     ], 
     "name": {
       "en": "Silver Level", 
-      "zh": "\u9280\u7d1a"
+      "zh": "銀級"
+    }
+  }, 
+  {
+    "data": [
+      {
+        "name": {
+          "en": "Tenlong Computer Book Co, Ltd.", 
+          "zh": "天瓏資訊圖書"
+        }, 
+        "level": "4", 
+        "logolink": "https://www.tenlong.com.tw", 
+        "intro": {
+          "en": "Sell conputer science books, provide discount for companies and order books included Traditional Chinese, Traditional Chinese and others foreign books.", 
+          "zh": "天瓏資訊提供平價專業電腦資訊書籍販售、團購優惠、公司機關報價服務，包括繁體中文、簡體中文、外文原文書籍代訂服務，目前正在拓展實體課程、講座活動、技術交流分享聚會中，有興趣讀者、講者、講師歡迎與我們聯繫。"
+        }, 
+        "place": "1", 
+        "logourl": "tenlong.png"
+      }, 
+      {
+        "name": {
+          "en": "Pycone", 
+          "zh": "松果城市"
+        }, 
+        "level": "4", 
+        "logolink": "https://pycone.com", 
+        "intro": {
+          "en": "Pycone provides chatbot for companies with technologies of artificial intelligence, natural language processing, and cloud services, helping companies to establish smart customer service easily and cost-effectively. It can reduce labor costs, improve service quality, collect customer service information, and expand business. Our services also cover data analysis, DevOps, etc.", 
+          "zh": "松果城市藉由人工智慧、自然語言處理技術、雲端服務，為各種企業量身打造智能聊天機器人，協助企業以低成本輕鬆建立無人化智慧客服。智能聊天機器人可降低人力成本、提高服務品質、蒐集客服資訊、擴大業務。我們的服務還包含資料分析與 DevOps 導入。"
+        }, 
+        "place": "2", 
+        "logourl": "pycone.png"
+      }
+    ], 
+    "name": {
+      "en": "Special Level", 
+      "zh": "特殊贊助"
     }
   }
 ]
