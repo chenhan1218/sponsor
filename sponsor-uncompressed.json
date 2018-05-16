@@ -9,7 +9,7 @@
         "level": "1", 
         "place": "1", 
         "logolink": "https://gandi.net", 
-        "logourl": "gandi.png", 
+        "logourl": "logo/Gandi.svg", 
         "name": {
           "zh": "Gandi.net", 
           "en": "Gandi.net"
@@ -31,7 +31,7 @@
         "level": "2", 
         "place": "1", 
         "logolink": "https://www.esunbank.com.tw/bank/personal", 
-        "logourl": "e.sun.png", 
+        "logourl": "logo/e.sun bank.svg", 
         "name": {
           "zh": "玉山商業銀行股份有限公司", 
           "en": "E.SUN Commercial Bank"
@@ -53,7 +53,7 @@
         "level": "3", 
         "place": "1", 
         "logolink": "http://www.appier.com/en/careers.html", 
-        "logourl": "appier.png", 
+        "logourl": "logo/銀1_Appier logo(用於白底).svg", 
         "name": {
           "zh": "沛星互動科技", 
           "en": "Appier"
@@ -67,7 +67,7 @@
         "level": "3", 
         "place": "2", 
         "logolink": "http://www.trendmicro.tw/tw/index.html", 
-        "logourl": "trendmicro.png", 
+        "logourl": "logo/Trendmicro.svg", 
         "name": {
           "zh": "趨勢科技", 
           "en": "Trend Micro"
@@ -81,7 +81,7 @@
         "level": "3", 
         "place": "3", 
         "logolink": "https://kloudless.com", 
-        "logourl": "kloudless.png", 
+        "logourl": "logo/kloudless.svg", 
         "name": {
           "zh": "kloudless", 
           "en": "kloudless"
@@ -103,7 +103,7 @@
         "level": "4", 
         "place": "1", 
         "logolink": "https://www.tenlong.com.tw", 
-        "logourl": "tenlong.png", 
+        "logourl": "logo/天瓏資訊圖書logo.svg", 
         "name": {
           "zh": "天瓏資訊圖書", 
           "en": "Tenlong Computer Book Co, Ltd."
@@ -117,7 +117,7 @@
         "level": "4", 
         "place": "2", 
         "logolink": "http://wolftea.com", 
-        "logourl": "wolftea.png", 
+        "logourl": "logo/琅茶.svg", 
         "name": {
           "zh": "琅茶", 
           "en": "wolftea"
