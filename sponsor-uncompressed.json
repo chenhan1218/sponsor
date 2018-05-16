@@ -9,7 +9,7 @@
         "level": "1", 
         "place": "1", 
         "logolink": "https://gandi.net", 
-        "logourl": "logo/Gandi.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/gandi/Gandi.net_Logo.svg", 
         "name": {
           "zh": "Gandi.net", 
           "en": "Gandi.net"
@@ -31,7 +31,7 @@
         "level": "2", 
         "place": "1", 
         "logolink": "https://www.esunbank.com.tw/bank/personal", 
-        "logourl": "logo/e.sun bank.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E7%8E%89%E5%B1%B1%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/e.sun_bank.svg", 
         "name": {
           "zh": "玉山商業銀行股份有限公司", 
           "en": "E.SUN Commercial Bank"
@@ -53,7 +53,7 @@
         "level": "3", 
         "place": "1", 
         "logolink": "http://www.appier.com/en/careers.html", 
-        "logourl": "logo/銀1_Appier logo(用於白底).svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/appier/%E9%8A%801_Appier_logo%E7%94%A8%E6%96%BC%E7%99%BD%E5%BA%95_rv5xuFZ.svg", 
         "name": {
           "zh": "沛星互動科技", 
           "en": "Appier"
@@ -67,7 +67,7 @@
         "level": "3", 
         "place": "2", 
         "logolink": "http://www.trendmicro.tw/tw/index.html", 
-        "logourl": "logo/Trendmicro.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/trend-micro/Trendmicro.svg", 
         "name": {
           "zh": "趨勢科技", 
           "en": "Trend Micro"
@@ -81,7 +81,7 @@
         "level": "3", 
         "place": "3", 
         "logolink": "https://kloudless.com", 
-        "logourl": "logo/kloudless.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/kloudless/kloudless_logo.svg", 
         "name": {
           "zh": "kloudless", 
           "en": "kloudless"
@@ -103,7 +103,7 @@
         "level": "4", 
         "place": "1", 
         "logolink": "https://www.tenlong.com.tw", 
-        "logourl": "logo/天瓏資訊圖書logo.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E5%A4%A9%E7%93%8F%E8%B3%87%E8%A8%8A%E5%9C%96%E6%9B%B8/%E5%A4%A9%E7%93%8F%E8%B3%87%E8%A8%8A%E5%9C%96%E6%9B%B8logo.svg", 
         "name": {
           "zh": "天瓏資訊圖書", 
           "en": "Tenlong Computer Book Co, Ltd."
@@ -117,7 +117,7 @@
         "level": "4", 
         "place": "2", 
         "logolink": "http://wolftea.com", 
-        "logourl": "logo/琅茶.svg", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/%E7%90%85%E8%8C%B6/wolftea_LtcGl1S.svg", 
         "name": {
           "zh": "琅茶", 
           "en": "wolftea"
