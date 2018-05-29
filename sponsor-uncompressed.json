@@ -90,6 +90,20 @@
           "zh": "Kloudless的多種服務APIs和開發者工具，可協助企業或開發者簡便地整合多種服務和資料來源", 
           "en": "Kloudless offers APIs and developer tools that help businesses easily build integrations to software applications and data sources"
         }
+      }, 
+      {
+        "level": "3", 
+        "place": "4", 
+        "logolink": "https://www.emq.com", 
+        "logourl": "https://tw.pycon.org/2018/media/sponsors/emq/EMQ.svg", 
+        "name": {
+          "zh": "EMQ", 
+          "en": "EMQ"
+        }, 
+        "intro": {
+          "zh": "EMQ is a fintech innovator with an extensive financial settlement network across Asia, providing secure and affordable money transfer options for businesses and individuals. With our assets anchored in Asia, EMQ currently has a footprint in Hong Kong, India, Indonesia, Vietnam and the Philippines, with plans underway to expand across the fastest growing trade corridors and economic zones, spanning Asia, Europe, North America and the Middle East. The company received its Money Service Operator license from the Hong Kong Customs and Excise Department in September 2014 and its Fund Transfer Operator license from Bank Indonesia in March 2017. For more information, please visit EMQ’s website at www.emq.com", 
+          "en": "EMQ is a fintech innovator with an extensive financial settlement network across Asia, providing secure and affordable money transfer options for businesses and individuals. With our assets anchored in Asia, EMQ currently has a footprint in Hong Kong, India, Indonesia, Vietnam and the Philippines, with plans underway to expand across the fastest growing trade corridors and economic zones, spanning Asia, Europe, North America and the Middle East. The company received its Money Service Operator license from the Hong Kong Customs and Excise Department in September 2014 and its Fund Transfer Operator license from Bank Indonesia in March 2017. For more information, please visit EMQ’s website at www.emq.com"
+        }
       }
     ]
   }, 
